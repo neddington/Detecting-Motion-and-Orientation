@@ -11,7 +11,7 @@ import SwiftUI
 struct Detecting_Motion_and_OrientationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MotionView()
         }
     }
 }
